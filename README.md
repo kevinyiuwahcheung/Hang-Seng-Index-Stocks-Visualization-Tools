@@ -1,6 +1,8 @@
 # Hang-Seng-Index-Stocks-Visualization-Tools
 
 **Hang-Seng-Index-Stocks-Visualization-Tools** is an interactive data dashboard for visualizing Hang Seng Stocks value and its stakeholder amount.
+This project initially aims for University of Pennsylvania CIS 550 Final Project. This project idea was developed in industry as the result of trading strategy research. The CCASS data can specifically be used to identify instances of wash trading, wherein a single individual or group used multiple brokerage accounts to engage in false trading. Often, wash trading is associated with classical “pump-and-dump” schemes. Therefore, being able to use publicly available data to programmatically identify such activity would be a big win for regulators and anyone interested in a clean and fair marketplace for securities.
+
 
 Submitted by: Kevin Yiu-Wah Cheung
 
@@ -8,7 +10,7 @@ Submitted by: Kevin Yiu-Wah Cheung
 
 The following **required** functionality is completed:
 
-* [x] User can **view a list of todo items**
+* [x] User can **50 stocks in Hang Seng Index**
 * [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
