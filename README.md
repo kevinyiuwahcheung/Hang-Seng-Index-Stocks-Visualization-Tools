@@ -20,9 +20,10 @@ The following features will be implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
+* [x] Walkthrough of visualization on stocks value:
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+* [x] Walkthrough of visualization on stocks stakeholder amount:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
