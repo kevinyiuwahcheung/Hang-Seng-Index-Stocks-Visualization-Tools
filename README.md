@@ -4,19 +4,19 @@
 This project initially aims for University of Pennsylvania CIS 550 Final Project. This project idea was developed in industry as the result of trading strategy research. The CCASS data can specifically be used to identify instances of wash trading, wherein a single individual or group used multiple brokerage accounts to engage in false trading. Often, wash trading is associated with classical “pump-and-dump” schemes. Therefore, being able to use publicly available data to programmatically identify such activity would be a big win for regulators and anyone interested in a clean and fair marketplace for securities.
 
 
-Submitted by: Kevin Yiu-Wah Cheung
+Submitted by: Kevin Yiu-Wah Cheung, John Votta
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
-* [x] User can **50 stocks in Hang Seng Index**
-* [x] User can **successfully add and remove items** from the todo list
-* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User can view **50 stocks in Hang Seng Index** and can select specific time period. 
+* [x] User can read the **company description**.
+* [x] User can view stakeholder amount for each stock.
 
-The following **optional** features are implemented:
+The following features will be implemented:
 
-* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] Indicator for wash trading.
 
 ## Video Walkthrough
 
@@ -26,13 +26,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Kevin Yiu-Wah Cheung, John Votta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
