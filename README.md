@@ -1,4 +1,5 @@
-# Hang-Seng-Index-Stocks-Visualization-Tools
+# S-Penn
+
 
 **Hang-Seng-Index-Stocks-Visualization-Tools** is an interactive data dashboard for visualizing Hang Seng Stocks value and its stakeholder amount. This project idea was developed in industry as the result of trading strategy research. The CCASS data can specifically be used to identify instances of wash trading, wherein a single individual or group used multiple brokerage accounts to engage in false trading. Often, wash trading is associated with classical “pump-and-dump” schemes. Therefore, being able to use publicly available data to programmatically identify such activity would be a big win for regulators and anyone interested in a clean and fair marketplace for securities.
 
